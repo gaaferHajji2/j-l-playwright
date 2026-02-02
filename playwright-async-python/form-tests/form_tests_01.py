@@ -1,5 +1,4 @@
 import asyncio
-from math import exp
 from playwright.async_api import async_playwright, expect
 
 async def test_go_to():
